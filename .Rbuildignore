@@ -1,0 +1,19 @@
+^renv$
+^renv\.lock$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+^_projr-local\.yml$
+
+# Start of projr section: do not edit by hand (until `# End of projr section`)
+^_data_raw/
+^_data_raw$
+^_tmp/
+^_tmp$
+^_output/
+^_output$
+^docs/
+^docs$
+# End of projr section
+^CITATION\.cff$
+
