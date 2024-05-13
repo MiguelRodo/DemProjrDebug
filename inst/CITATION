@@ -1,0 +1,11 @@
+citHeader("To cite `DemProjrDebug` in publications use:")
+
+bibentry(bibtype = "Misc",
+         key = "rodo",
+         title = "DemProjrDebug: 1",
+         author = person(given = "Miguel",
+                         family = "Rodo",
+                         email = "miguel.rodo@uct.ac.za"),
+         url = "https://github.com//DemProjrDebug/#readme",
+         abstract = "1",
+         version = "0.0.0-1")

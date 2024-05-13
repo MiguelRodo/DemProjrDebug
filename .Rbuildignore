@@ -4,6 +4,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^_projr-local\.yml$
+^_projr-local\.yml$
 
 # Start of projr section: do not edit by hand (until `# End of projr section`)
 ^_data_raw/
